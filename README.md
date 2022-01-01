@@ -1,4 +1,4 @@
-# cybersecurity-appsec
+# Application Security
 
 ######  Welcome To The World of Application Security in Cybersecurity:
 > A collection of awesome framework, libraries, learning tutorials, videos, webcasts, technical resources and cool stuff about Application Security.
